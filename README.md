@@ -6,14 +6,18 @@
 I am a technology enthusiast who is adventurous when it comes to new discoveries in technology, especially in Information Security.
 
 <h2>Skills</h2>
-  
+
 <h2>Certifications</h2>
 <div>
 
 
 </div>
 <h2>Projects</h2>
-
+<div>Audit compliance Management</div>
+<div>Ecommerce Database</div> 
+<div>Employee Database</div>
+<div>Compliance Tracker with webbased</div>
+<div>Library Database</div>
 
 <!--
 **Queenstar1/Queenstar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
