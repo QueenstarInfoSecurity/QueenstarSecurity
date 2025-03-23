@@ -10,15 +10,27 @@ I am a technology enthusiast who is adventurous when it comes to new discoveries
 <h2>Certifications</h2>
 <div>
 
-
 </div>
 <h2>Projects</h2>
+
+<h3>Information Security Policies</h3>
+<div> Data Protection & Security Obligation in Business Contract </div>
+<div>Information Security Policy</div>
+<div>Risk Report Template</div>
+<div>Agricultural Incident reports Template</div>
+<div>SOA Policy Health Care</div>
+<div>Care Incident Report</div>
+
+<h3>SQL </h3>
 <div>Audit compliance Management</div>
 <div>Ecommerce Database</div> 
 <div>Employee Database</div>
-<div>Compliance Tracker with webbased</div>
-<div>Library Database</div>
+<div>Compliance Tracker without webbased</div>
 
+
+<h3>Python</h3>
+<div>Compliance Tracker without webbased</div>
+<div>Library Database</div>
 <!--
 **Queenstar1/Queenstar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
