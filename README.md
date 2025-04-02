@@ -14,10 +14,8 @@ I am a technology enthusiast who is adventurous when it comes to new discoveries
 <h2>Information Secuirty Policies:</h2>
 
   - <b> Data Protection & Security Obligation in Business Contract </b>
-       - (https://github.com/Queenstar1/Data-Protection-and-Security-in-Business-Contract-)
-         
-  - <b> Policy Information Security </b>
-     -
+       - (https://github.com/Queenstar1/Data-Protection-and-Security-in-Business-Contract-)       
+  - Policy Information Security
   - Risk Report Template
   - Agricultural Incident reports Template
   - SOA Policy Health Care
