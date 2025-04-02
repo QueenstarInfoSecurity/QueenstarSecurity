@@ -11,7 +11,7 @@ I am a technology enthusiast who is adventurous when it comes to new discoveries
 <div>
 
 </div>
-<h2>Information Secuirty Policies:</h2>
+<h2>Policies:</h2>
 
   -  Data Protection & Security Obligation in Business Contract (https://github.com/Queenstar1/Data-Protection-and-Security-in-Business-Contract-)       
   - Policy Information Security  (https://github.com/Queenstar1/Policy-Information-Security)
