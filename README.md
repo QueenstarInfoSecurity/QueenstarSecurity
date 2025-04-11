@@ -5,11 +5,13 @@
 
 I am a technology enthusiast who is adventurous when it comes to new discoveries in technology, especially in Information Security.
 
-<h2>Skills</h2>
+
 
 <h2>Certifications</h2>
 <div>
-
+<img src= "https://img.shields.io/badge/One%20Trust%20Certified%20Tech%20Risk%20%26%20Compliance%20Management-28a745?style=for-the-badge&logo=trustpilot&logoColor=white"/>
+<img src= "https://img.shields.io/badge/OneTrust%20Privacy%20Management%20Professional-28a745?style=for-the-badge&logo=trustpilot&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Qualys%20Certified%20Specialist%3A%20PCI%20COMPLIANCE-e3342f?style=for-the-badge&logo=qualys&logoColor=white"/>
 </div>
 
 - <h2>Policies </h2>
