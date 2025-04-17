@@ -25,7 +25,7 @@ I am a technology enthusiast who is adventurous when it comes to new discoveries
  - <h2>SQL Projects </h2> 
   
    -  <a href="https://github.com/Queenstar1/Audit-Compliance-Management/tree/main"> Audit compliance Management</a> 
-   - <a href=""> Ecommerce Database</a>
+   - <a href="https://github.com/Queenstar1/EcommerceDB"> Ecommerce Database</a>
    - <a href=" "> Employee Database</a>
 
 
