@@ -26,7 +26,7 @@ I am a technology enthusiast who is adventurous when it comes to new discoveries
   
    -  <a href="https://github.com/Queenstar1/Audit-Compliance-Management/tree/main"> Audit compliance Management</a> 
    - <a href="https://github.com/Queenstar1/EcommerceDB"> Ecommerce Database</a>
-   - <a href=" "> Employee Database</a>
+   - <a href=" https://github.com/Queenstar1/Employee-Database"> Employee Database</a>
 
 
 - <h2>Python Projects</h2>
