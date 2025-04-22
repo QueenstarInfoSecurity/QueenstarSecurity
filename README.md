@@ -31,7 +31,7 @@ I am a technology enthusiast who is adventurous when it comes to new discoveries
 
 - <h2>Python Projects</h2>
 
-  - <a href=" https://github.com/Queenstar1/Compliance-Tracking-Sysytem"> Compliance Tracker </a>
+  - <a href="https://github.com/Queenstar1/Compliance-Tracking-Sysytem"> Compliance Tracker </a>
   - <a href=" "> Library Database</a>
 <!--
 **Queenstar1/Queenstar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
