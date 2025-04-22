@@ -1,9 +1,9 @@
-<h1>Hi, I'm Queenstar! <br/><a href="https://github.com/Queenstar1"</a> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Queenstar! <br/><a href="https://github.com/Queenstar1"</a> Compliance and Data Protection Professional</a></h1>
 <a href="https://www.linkedin.com/in/queenstar-mante-bonsra-4a00551a4/"><img src= "https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
  <h2>Introduction</h2>
 
-I am a technology enthusiast who is adventurous when it comes to new discoveries in technology, especially in Information Security.
+I am a compliance oddicer and data protection helping organizations navigate complex privacy laws and build systems that respect data rights.
 
 
 
