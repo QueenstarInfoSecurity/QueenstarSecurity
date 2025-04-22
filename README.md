@@ -3,7 +3,7 @@
 
  <h2>Introduction</h2>
 
-I am a compliance officer and data protection helping organizations navigate complex privacy laws and build systems that respect data rights.
+I am a compliance and data protection officer, helping organizations navigate complex privacy laws and build systems that conform to data privacy laws and regulations.
 
 ### Interest
  - Ethical and secure data handling
