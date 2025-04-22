@@ -3,9 +3,17 @@
 
  <h2>Introduction</h2>
 
-I am a compliance oddicer and data protection helping organizations navigate complex privacy laws and build systems that respect data rights.
+I am a compliance officer and data protection helping organizations navigate complex privacy laws and build systems that respect data rights.
 
+### Interest
+ - Ethical and secure data handling
+ - Bridging the gap between legal framework and everyday operations.
+ - Using tech and documentation to make compliance more accessible.
 
+### Skills and Tools
+- Compliance Audits | Data Goverance | Policy Writing
+- Risk Analysis | Internal Controls | Privacy Training
+  
 
 <h2>Certifications</h2>
 <div>
