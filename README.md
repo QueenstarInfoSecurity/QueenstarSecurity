@@ -20,6 +20,7 @@ I am a compliance and data protection officer, helping organizations navigate co
 <img src= "https://img.shields.io/badge/PrivacyOps%20CERTIFIED-0078D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src= "https://img.shields.io/badge/One%20Trust%20Certified%20Tech%20Risk%20%26%20Compliance%20Management-28a745?style=for-the-badge&logo=trustpilot&logoColor=white"/>
 <img src= "https://img.shields.io/badge/OneTrust%20Privacy%20Management%20Professional-28a745?style=for-the-badge&logo=trustpilot&logoColor=white"/>
+ <img src= "https://img.shields.io/badge/OneTrust%20Third%20Party%20Risk%20Management%20Professional-28a745?style=for-the-badge&logo=trustpilot&logoColor=white/>
 <img src= "https://img.shields.io/badge/Qualys%20Certified%20Specialist%3A%20PCI%20COMPLIANCE-e3342f?style=for-the-badge&logo=qualys&logoColor=white"/>
 <img src= "https://img.shields.io/badge/OneTrust%20PIA%20%26%20DPIA%20Automation%20Expert-28a745?style=for-the-badge&logo=trustpilot&logoColor=white"/>
 <img src= "https://img.shields.io/badge/Coursera%20Cybersecurity%20Risk%20Management%20Framework%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
