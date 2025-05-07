@@ -1,18 +1,20 @@
-<h1>Hi, I'm Queenstar! <br/><a href="https://github.com/Queenstar1"</a> Compliance and Data Protection Professional</a></h1>
+<h1>Hi, I'm Queenstar! <br/>
+<a href="https://github.com/Queenstar1"</a> Compliance and Privacy Engineer</a></h1>
 <a href="https://www.linkedin.com/in/queenstar-mante-bonsra-4a00551a4/"><img src= "https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ 
+### Making Data Protection Practical
+I help organizatioins build **ethical,compliant systems**  by bridging legal frameworks with real world operations. My focus: **scalable privacy programs, risk mistigation, and training** that turn regulations into action.
 
- <h2>Introduction</h2>
-
-I am a compliance and data protection officer, helping organizations navigate complex privacy laws and build systems that conform to data privacy laws and regulations.
-
-### Interest
- - Ethical and secure data handling
- - Bridging the gap between legal framework and everyday operations.
- - Using tech and documentation to make compliance more accessible.
+### What I work On
+ - **Privacy by Design**: Implementing GDPR, CCPA, HIPPA into workflows.
+ - **Compliance Automation**: Reducing manual overhead with audits and documentation.
+ - **Data Governance**: Mapping flows, minimizing risk and enforcing policies.
+ - **Training and Advocacy**: Teaching teams to prioritize privcay without slowing innovation
 
 ### Skills and Tools
-- Compliance Audits | Data Goverance | Policy Writing
-- Risk Analysis | Internal Controls | Privacy Training
+- **Regulations** : GDPR| CCPA| HIPAA| PIPEDA| LGPD
+- **Frameworks** :  NIST Privacy Framework| ISO 27001| Privacy by Design
+- **Tech**      :  OneTrust| Data Mapping Tools | Compliance Automation
   
 
 <h2>Certifications</h2>
