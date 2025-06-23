@@ -16,7 +16,7 @@ I build **scalable privacy program** that turn regulations (GDPR, CCPA, HIPAA) i
 - **Regulations** : GDPR| CCPA| HIPAA| PIPEDA| LGPD
 - **Frameworks** :  NIST Privacy Framework| ISO 27001/ 27701| Privacy by Design 
 - **Tech**      :  OneTrust| Data Mapping Tools | Compliance Automation|
-- **Techical** : SQL , Python (compliance automation script), Markdown docs |
+- **Techical** : SQL| Python (compliance automation script) | Markdown docs |
   
 
 <h2>Certifications</h2>
@@ -35,4 +35,4 @@ I build **scalable privacy program** that turn regulations (GDPR, CCPA, HIPAA) i
 
 
   
-*"Privacy isnot a constraint - it's a design challenge
+*" Privacy isnot a constraint - it's a design challenge "*
